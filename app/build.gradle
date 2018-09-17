@@ -26,5 +26,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
+    compile 'com.infinitus_demo_lib:infinitus_demo_lib:1.0.3'
 //    implementation 'com.infinitus_demo_lib:infinitus_demo_lib:1.0.2'
 }
